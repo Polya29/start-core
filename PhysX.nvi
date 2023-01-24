@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nvi name="Display.PhysX" title="${{title}}" version="${{version}}" versionText="${{version}}" timestamp="2013-01-10T13:39:59" disposition="default" installerMin="2.1002.61.252">
+	<strings>
+		<string name="version" value="9.12.1031"/>
+		<localized locale="0x0409">
+			<string name="title" value="PhysX System Software"/>
+			<string name="InstallBlockedMessage" value="${{title}} cannot be installed on this computer."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="A newer or a same version of ${{title}} is present on this computer"/>
+			<string name="InstallSafeModeBlockedMessage" value="Cannot be installed in safe mode."/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Cannot be uninstalled in safe mode."/>
+		</localized>
+		<localized locale="0x0401">
+			<string name="title" value="برنامج نظام PhysX"/>
+			<string name="InstallBlockedMessage" value="لا يمكن تثبيت ${{title}} على هذا الكمبيوتر."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="يوجد إصدار أحدث أو نفس الإصدار من ${{title}} على هذا الكمبيوتر"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="لا يمكن إلغاء التثبيت في وضع آمن."/>
+		</localized>
+		<localized locale="0x0405">
+			<string name="title" value="Systémový software PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} nemůže být nainstalován na tento počítač."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Na tomto počítači je přítomna nová nebo stejná verze ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Nelze odinstalovat v zabezpečeném režimu."/>
+		</localized>
+		<localized locale="0x0406">
+			<string name="title" value="PhysX-systemsoftware"/>
+			<string name="InstallBlockedMessage" value="${{title}} kan ikke installeres på denne computer."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="En nyere eller den samme version af ${{title}} findes på computeren"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Kan ikke afinstalleres i sikker tilstand."/>
+		</localized>
+		<localized locale="0x0407">
+			<string name="title" value="PhysX-Systemsoftware"/>
+			<string name="InstallBlockedMessage" value="${{title}} kann auf diesem Computer nicht installiert werden."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Auf diesem Computer ist eine neuere oder dieselbe Version von ${{title}} installiert"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Kann im abgesicherten Modus nicht deinstalliert werden."/>
+		</localized>
+		<localized locale="0x0408">
+			<string name="title" value="Λογισμικό σύστημα PhysX"/>
+			<string name="InstallBlockedMessage" value="Το ${{title}} δεν είναι δυνατό να εγκατασταθεί σε αυτόν τον υπολογιστή."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Μια νεότερη ή ίδια έκδοση του ${{title}} υπάρχει σε αυτόν τον υπολογιστή"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Δεν είναι δυνατή η κατάργηση εγκατάστασης σε ασφαλή λειτουργία."/>
+		</localized>
+		<localized locale="0x0809">
+			<string name="title" value="PhysX System Software"/>
+			<string name="InstallBlockedMessage" value="${{title}} cannot be installed on this computer."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="A newer or a same version of ${{title}} is present on this computer"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Cannot be uninstalled in safe mode."/>
+		</localized>
+		<localized locale="0x040a">
+			<string name="title" value="Software del sistema PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} no puede instalarse en este equipo."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Una versión de ${{title}} más nueva o la misma está presente en este equipo"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="No puede desinstalarse en el modo seguro."/>
+		</localized>
+		<localized locale="0x080a">
+			<string name="title" value="Software del sistema PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} no puede instalarse en este equipo."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Este equipo posee una versión de ${{title}} más reciente o la misma versión"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="No puede desinstalarse en el modo seguro."/>
+		</localized>
+		<localized locale="0x040b">
+			<string name="title" value="PhysX-järjestelmäohjelmisto"/>
+			<string name="InstallBlockedMessage" value="Sovellusta ${{title}} ei voi asentaa tähän tietokoneeseen."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Uudempi tai sama versio ohjelmasta ${{title}} on jo olemassa tässä tietokoneessa"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Asennusta ei voi poistaa vikasietotilassa."/>
+		</localized>
+		<localized locale="0x040c">
+			<string name="title" value="Logiciel système PhysX"/>
+			<string name="InstallBlockedMessage" value="Impossible d’installer ${{title}} sur cet ordinateur."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Une version plus récente ou la même version de ${{title}} est présente sur cet ordinateur."/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Désinstallation impossible en mode sans échec"/>
+		</localized>
+		<localized locale="0x040d">
+			<string name="title" value="תכנת PhysX מערכת"/>
+			<string name="InstallBlockedMessage" value="${{title}} לא ניתנת להתקנה במחשב זה."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value=" במחשב זה מותקנת כבר גרסה חדשה יותר של ${{title}} או גרסה זהה לזו"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="ההתקנה אינה ניתנת להסרה במצב בטוח."/>
+		</localized>
+		<localized locale="0x040e">
+			<string name="title" value="PhysX rendszerszoftver"/>
+			<string name="InstallBlockedMessage" value="A(z) ${{title}} nem telepíthető erre a számítógépre."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="A(z) ${{title}} egy újabb vagy azonos verziója már megtalálható a számítógépen"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Csökkentett módban nem távolítható el."/>
+		</localized>
+		<localized locale="0x0410">
+			<string name="title" value="PhysX System Software"/>
+			<string name="InstallBlockedMessage" value="Impossibile installare ${{title}} su questo computer."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Su questo computer è presente la stessa versione o una versione più recente di ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Impossibile disinstallare in modalità sicura."/>
+		</localized>
+		<localized locale="0x0411">
+			<string name="title" value="PhysX システム ソフトウェア"/>
+			<string name="InstallBlockedMessage" value="${{title}} はこのコンピューターにインストールできません。"/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="これより新しいバージョンまたは同じバージョンの ${{title}} が既にコンピューターにインストールされています"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="セーフ モードではアンインストールできません。"/>
+		</localized>
+		<localized locale="0x0412">
+			<string name="title" value="PhysX 시스템 소프트웨어"/>
+			<string name="InstallBlockedMessage" value="${{title}}은(는) 이 컴퓨터에 설치할 수 없습니다."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="이 컴퓨터에는 ${{title}}의 신버전 또는 동일한 버전이 있습니다."/>
+			<string name="UnInstallSafeModeBlockedMessage" value="안전 모드에서는 제거할 수 없습니다."/>
+		</localized>
+		<localized locale="0x0413">
+			<string name="title" value="PhysX systeemsoftware"/>
+			<string name="InstallBlockedMessage" value="${{title}} kan niet op deze computer worden geïnstalleerd."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Een nieuwere of dezelfde versie van ${{title}} is aanwezig op deze computer"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Installatie kan niet ongedaan worden gemaakt in veilige modus."/>
+		</localized>
+		<localized locale="0x0414">
+			<string name="title" value="PhysX systemprogramvare"/>
+			<string name="InstallBlockedMessage" value="${{title}} kan ikke installeres på denne datamaskinen."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Denne versjonen eller en nyere utgave ${{title}} er allerede installert på denne datamaskinen"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Kan ikke avinstalleres i sikkermodus."/>
+		</localized>
+		<localized locale="0x0415">
+			<string name="title" value="Oprogramowanie systemu PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} nie może zostać zainstalowany na tym komputerze."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Na komputerze istnieje już nowsza lub ta sama wersja programu ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Nie można odinstalować w trybie awaryjnym."/>
+		</localized>
+		<localized locale="0x0816">
+			<string name="title" value="O software do sistema PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} não pode ser instalado neste computador."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Uma versão idêntica ou mais recente de ${{title}} já se encontra neste computador"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Não é possível efectuar a desinstalação em modo de segurança."/>
+		</localized>
+		<localized locale="0x0416">
+			<string name="title" value="Software do sistema PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} não pode ser instalado neste computador."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Uma nova versão ou a mesma versão do ${{title}} está instalada neste computador"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Não pode ser desinstalado no modo de segurança."/>
+		</localized>
+		<localized locale="0x0419">
+			<string name="title" value="Системное программное обеспечение PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} невозможно установить на этом компьютере."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="На компьютере уже установлена эта или более новая версия ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Удаление в безопасном режиме невозможно."/>
+		</localized>
+		<localized locale="0x041b">
+			<string name="title" value="Softvér systému s podporou technológie PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} nie je možné na tomto počítači nainštalovať."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="V počítači sa nachádza novšia alebo rovnaká verzia produktu ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="V núdzovom režime sa nedá odinštalovať."/>
+		</localized>
+		<localized locale="0x0424">
+			<string name="title" value="Sistemske opreme PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} ni mogoče namestiti na tem računalniku."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Na tem računalniku je prisotna novejša ali ista različica ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Ni mogoče odstraniti v varnem načinu."/>
+		</localized>
+		<localized locale="0x041d">
+			<string name="title" value="PhysX systemprogramvara"/>
+			<string name="InstallBlockedMessage" value="${{title}} kan inte installeras på denna dator."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="En nyare eller samma version av ${{title}} finns på datorn"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Kan inte avinstallera i säkert läge."/>
+		</localized>
+		<localized locale="0x041e">
+			<string name="title" value="ซอฟต์แวร์ระบบ PhysX"/>
+			<string name="InstallBlockedMessage" value="${{title}} ไม่สามารถติดตั้งได้ในคอมพิวเตอร์เครื่องนี้"/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="มี ${{title}} รุ่นเดียวกันหรือใหม่กว่าในคอมพิวเตอร์นี้"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="ไม่สามารถถอนการติดตั้งในเซฟโหมดได้"/>
+		</localized>
+		<localized locale="0x041f">
+			<string name="title" value="PhysX Sistem Yazılımı"/>
+			<string name="InstallBlockedMessage" value="${{title}}, bu bilgisayara kurulamaz."/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="Bu bilgisayarda ${{title}} yazılımının aynı veya daha yeni bir sürümü mevcut"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="Kaldırma işlemi güvenli modda yapılamaz."/>
+		</localized>
+		<localized locale="0x0804">
+			<string name="title" value="PhysX 系统软件"/>
+			<string name="InstallBlockedMessage" value="${{title}} 无法安装到此计算机。"/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="此计算机上存在更新或相同版本的 ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="无法在安全模式下卸载。"/>
+		</localized>
+		<localized locale="0x0404">
+			<string name="title" value="PhysX 系統軟體"/>
+			<string name="InstallBlockedMessage" value="${{title}} 無法安裝在此電腦上。"/>
+			<string name="arpDisplayName" value="NVIDIA ${{title}} ${{version}}"/>
+			<string name="NotAnUpgradeMessage" value="這台電腦上已配備較新或相同版本的 ${{title}}"/>
+			<string name="UnInstallSafeModeBlockedMessage" value="無法在安全模式中解除安裝。"/>
+		</localized>
+		<string name="PhsXmsi" value="PhysX_*.msi"/>
+	</strings>
+	<dependencies>
+		<package type="after" package="Display.Driver"/>
+		<package type="after" package="Display.ControlPanel"/>
+	</dependencies>
+	<description/>
+	<constraints>
+		<property name="Display.Driver!Feature.Physx" level="silent" text="${{InstallBlockedMessage}}"/>
+		<overinstall name="CheckIfNotAnUpgrade" whenCurrent="lowerversion,sameversion" level="skip" text="${{NotAnUpgradeMessage}}"/>
+		<reject tests="SAFEMODE" level="silent" text="${{InstallSafeModeBlockedMessage}}"/>
+		<reject tests="SAFEMODE" level="critical" text="${{UnInstallSafeModeBlockedMessage}}" when="uninstall"/>
+	</constraints>
+	<extensions>
+		<extension file="PhysxExt.DLL"/>
+	</extensions>
+	<properties>
+		<bool name="FixedInstallLocation" value="true"/>
+		<string name="InstallLocation" value="${{NvidiaProgramFilesX86}}\PhysX"/>
+		<string name="ArpIcon" value="${{NvidiaProgramFilesX86}}\PhysX\Engine\A_Ball_Trans.ico,0"/>
+		<string name="ArpDisplayName" value="${{arpDisplayName}}"/>
+	</properties>
+    <manifest>
+        <file name="PhysX_9.12.1031_SystemSoftware.msi" />
+        <file name="PhysXExt.dll" />
+        <file name="PhysX.nvi" />
+    </manifest>
+	<phases>
+		<msi platform="x86" phase="PhysX" name="${{PhsXmsi}}">
+			<arg name="SKIP_PPU_DRIVER_INSTALL" value="1"/>
+		</msi>
+		<confirm platform="x86" phase="Confirm-install" when="install">
+			<fileExists target="Common\PhysXLoader.dll"/>
+			<fileExists target="Engine\A_Ball_Trans.ico"/>
+		</confirm>
+		<custom phase="hideOldARPEntry" action="hideOldARPEntry" when="install"/>
+	</phases>
+</nvi>
